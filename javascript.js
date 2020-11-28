@@ -34,4 +34,6 @@ if(arr1.indexOf(r)===arr2.indexOf(r2))
 // });
 
 
+console.log()
+
 console.log(arr)
